@@ -1,0 +1,39 @@
+date,Time,home_team,away_team,home_goals,away_goals
+13/08/2021,20:00,Brentford,Arsenal,2,0
+14/08/2021,12:30,Man United,Leeds,5,1
+14/08/2021,15:00,Burnley,Brighton,1,2
+14/08/2021,15:00,Chelsea,Crystal Palace,3,0
+14/08/2021,15:00,Everton,Southampton,3,1
+14/08/2021,15:00,Leicester,Wolves,1,0
+14/08/2021,15:00,Watford,Aston Villa,3,2
+14/08/2021,17:30,Norwich,Liverpool,0,3
+15/08/2021,14:00,Newcastle,West Ham,2,4
+15/08/2021,16:30,Tottenham,Man City,1,0
+21/08/2021,12:30,Liverpool,Burnley,2,0
+21/08/2021,15:00,Aston Villa,Newcastle,2,0
+21/08/2021,15:00,Crystal Palace,Brentford,0,0
+21/08/2021,15:00,Leeds,Everton,2,2
+21/08/2021,15:00,Man City,Norwich,5,0
+21/08/2021,17:30,Brighton,Watford,2,0
+22/08/2021,14:00,Southampton,Man United,1,1
+22/08/2021,14:00,Wolves,Tottenham,0,1
+22/08/2021,16:30,Arsenal,Chelsea,0,2
+23/08/2021,20:00,West Ham,Leicester,4,1
+28/08/2021,12:30,Man City,Arsenal,5,0
+28/08/2021,15:00,Aston Villa,Brentford,1,1
+28/08/2021,15:00,Brighton,Everton,0,2
+28/08/2021,15:00,Newcastle,Southampton,2,2
+28/08/2021,15:00,Norwich,Leicester,1,2
+28/08/2021,15:00,West Ham,Crystal Palace,2,2
+28/08/2021,17:30,Liverpool,Chelsea,1,1
+29/08/2021,14:00,Burnley,Leeds,1,1
+29/08/2021,14:00,Tottenham,Watford,1,0
+29/08/2021,16:30,Wolves,Man United,0,1
+08/02/2022,19:45,Newcastle,Everton,3,1
+08/02/2022,19:45,West Ham,Watford,1,0
+08/02/2022,20:00,Burnley,Man United,1,1
+08/04/2022,20:00,Newcastle,Wolves,1,0
+08/05/2022,14:00,Arsenal,Leeds,2,1
+08/05/2022,14:00,Leicester,Everton,1,2
+08/05/2022,14:00,Norwich,West Ham,0,4
+08/05/2022,16:30,Man City,Newcastle,5,0
